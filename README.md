@@ -4,7 +4,7 @@
     width="200"
   />
   <h1 align="center">Hi, Im Cesar or Cissar 👋</h1>
-  <h3 align="center">Iam a bla bla Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, ad. Id blanditiis nostrum in aspernatur magnam, a explicabo earum magni! Similique neque atque minima non accusantium sint! Dolore, quia laboriosam.</h3>
+  <h3 align="center">I am a JavaScript Full stack developer, Currently I specialize more in front end</h3>
 </div>
 
 

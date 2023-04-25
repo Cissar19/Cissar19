@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on a company where I can develop my skills
 - 🌱 I’m currently learning Backend (MERM STACK)...
 - 💬 I can help you with about **JavaScript, React, SASS**
-- 📫 How to reach me: [Gmail] (cesar.contreras.rv@gmail.com)
+- 📫 How to reach me: cesar.contreras.rv@gmail.com
 - 😄 Pronouns: Cissar
 - ⚡ Fun fact: I love animals 🐶🐵🐣
 

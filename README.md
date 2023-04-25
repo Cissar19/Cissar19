@@ -16,3 +16,16 @@
 - 📫 How to reach me: [Gmail] (cesar.contreras.rv@gmail.com)
 - 😄 Pronouns: Cissar
 - ⚡ Fun fact: I love animals 🐶🐵🐣
+
+<div align="left">
+  <h3>👷🏽‍♂️Lenguages and Tools</h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TAILWIND" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="BOOTSTRAAP" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NODE" width="40" height="40" />
+  </div>
+</div>

@@ -3,7 +3,7 @@
     src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
     width="200"
   />
-  <h1 align="center">Hi, Im Cesar or Cissar 👋</h1>
+  <h1 align="center">Hi, I'm Cesar or Cissar 👋</h1>
   <h3 align="center">I am a JavaScript Full stack developer, Currently I specialize more in front end</h3>
 </div>
 

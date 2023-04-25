@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img
+    src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
+    width="200"
+  />
+  <h1 align="center">Hi, Im Cesar or Cissar 👋</h1>
+  <h3 align="center">Iam a bla bla Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, ad. Id blanditiis nostrum in aspernatur magnam, a explicabo earum magni! Similique neque atque minima non accusantium sint! Dolore, quia laboriosam.</h3>
+</div>
 
-<!--
-**Cissar19/Cissar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on a company where I can develop my skills
+- 🌱 I’m currently learning Backend (MERM STACK)...
+- 💬 I can help you with about **JavaScript, React, SASS**
+- 📫 How to reach me: [Gmail] (cesar.contreras.rv@gmail.com)
+- 😄 Pronouns: Cissar
+- ⚡ Fun fact: I love animals 🐶🐵🐣
